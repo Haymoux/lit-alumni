@@ -1,0 +1,18 @@
+Lakeside Institute of Technology (LIT) is suffering from inconsistency of alumni data due to different factors such as
+alumnis change in residence, change of name, and even change of contact. They also find it very uneasy to manage the current alumni database
+
+SOLUTION
+An online portal which allows every alumni to easily update their details tyhemselves whenever change occurs and also an admin dashboard
+where admins can add new alumnis, search for alumni details, and perform other operations.
+
+
+HOW TO USE
+Step 1
+Go to https:// to acces the admin dashboard and add yourself as an alumni. (please use an email you have access to, otp will be sent for the first sign in)
+
+Step 2
+Go to https:// to and sign in with your email and this default password 'default1'
+
+OTP will be sent to your email and you can change your password.
+Step 3
+You can go back to the admin dashboard to access all features
