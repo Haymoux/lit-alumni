@@ -23,6 +23,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="../../styles/bootstrap.min.css">
 <link rel="stylesheet" href="../../styles/change-pass.css">
+<link rel="icon" href="https://peteramos.42web.io/img/gallery/PP.png">
 <body>
 
 <section class="ftco-section">

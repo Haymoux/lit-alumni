@@ -19,7 +19,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../styles/bootstrap.min.css">
+<link rel="icon" href="https://peteramos.42web.io/img/gallery/PP.png">
 <link rel="stylesheet" href="../styles/signin.css">
+<link rel="stylesheet" href="../styles/footer.css">
 <body>
     <!-- from https://colorlib.com/wp/template/login-form-15/-->
 <section class="ftco-section" style="margin-top: -80px;">

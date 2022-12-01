@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(2, 141, 67);
+}
+  
+  
+  header{
+        position: fixed;
+        width: 100%;
+    }
+
+          .hero-part{
+            background: linear-gradient(#198754 , rgb(2, 141, 67));
+          
+          }
+
+          .hero-part h1{
+          color:#ffffff;
+          font-size: 60px;
+          padding-top: 4.5em;
+          }
+
+          .hero-part h3{
+          color:#ffffff;
+          
+          }
+
+          #hero-img{
+            padding-top:7em;
+            max-width: 100%;
+          }
+
+
+          .btn-tertiary{
+            margin-top:20px;
+            background-color: transparent !important;
+            border-color: #ffffff !important;
+            color: #ffffff !important;
+            min-height: 50px;
+          }
+
+          .btn-tertiary:hover{
+            background-color: #ffffff !important;
+            /* border-color: #198754 !important; */
+	    color: #198754 !important;
+          }
+
+
+        

@@ -33,6 +33,8 @@
         <title>Add New User</title>
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="../../styles/bootstrap.min.css">
+        <link rel="icon" href="https://peteramos.42web.io/img/gallery/PP.png">
+        <link rel="stylesheet" href="../../styles/footer.css">
     </head>
     <?php
         include ('../includes/admin_header.php');
@@ -223,7 +225,9 @@
   
 
 
-
+    <?php
+        /*  include ('../includes/admin_footer.php'); */
+    ?>
 
 <script src="../../styles/bootstrap.min.js"></script>
 </body>

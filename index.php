@@ -8,7 +8,12 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" href="https://peteramos.42web.io/img/gallery/PP.png">
         <link rel="stylesheet" href="styles/bootstrap.min.css">
+        <link rel="stylesheet" href="styles/home-hero.css">
+        <link rel="stylesheet" href="styles/footer.css"> <!-- body background is here -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
 
     </head>
     <header>
@@ -65,9 +70,56 @@
     </header>
 
     <body>
-        <div class="container">
-            <h1>Welcome to Home Page, Not Dashboard</h1>
-        </div>
+        
+    
+
+
+    <div class="hero-part">
+          <div class="container">
+      
+            <div class="row">
+              <div class="col-md-6">
+
+              	<h1 class="animate__animated  animate__fadeIn">Lakeside Institute of Technology</h1>
+              	<h3 class="animate__animated  animate__fadeIn"> Alumni Portal</h3>
+	      	<p>
+			<a href="pages/signin.php"><button class="btn btn-tertiary    animate__animated animate__fadeIn">Enter Portal Now</button></a>
+	      	</p> <br />
+              </div> 
+
+              <div class="col-md-6 ">
+              <img id="hero-img" class="d-none d-lg-block       animate__animated  animate__fadeIn"src="img/note-st.png" alt="picture-illutration">
+              </div> 
+
+            </div>
+          
+          </div>
+            </div>
+
+
+
+
+
+
+
+        <footer>
+    <div class="footer-h3">
+
+
+    <ul class="footer-icons">
+        
+        <li><a href="https://github.com/haymoux"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+        <li><a href="https://linkedin.com/in/peter-amos1" target="_blank"><i class="fa fa-linkedin  animate__animated  animate__bounce" id="linkr" aria-hidden="true"></i></a></li>
+        <li><a href="https://peteramos.42web.io"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+    </ul>
+
+    </div>
+</footer>
+
+
+
+
+
 
 
 
